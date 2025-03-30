@@ -13,3 +13,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish8801&show_icons=true&locale=en" alt="Manish8801" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish8801&" alt="Manish8801" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish8801&show_icons=true&locale=en&layout=compact" alt="Manish8801" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manish8801" alt="Manish8801" /></a></p>
